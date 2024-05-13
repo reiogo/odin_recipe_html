@@ -1,3 +1,17 @@
 * {
     font-family: Verdana, sans-serif;
 }
+
+h1,
+div{
+width: 350px;
+margin: 0 70% 0 30%;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 7px;
+}
+
+
+
